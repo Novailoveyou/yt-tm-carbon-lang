@@ -7,6 +7,7 @@ This is me following Brad Traversy's
 
 ## Tools
 
-I'm using [an online tool](https://godbolt.org) to write Cabon Lang
+I'm using [an online tool called Compiler Explorer](https://godbolt.org) to
+write Cabon Lang
 
 Year 2022
